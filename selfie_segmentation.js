@@ -83,3 +83,5 @@ const camera = new Camera(video$, {
   height: HEIGHT,
 });
 camera.start();
+
+// "dev": "vite --host 192.168.1.146",
